@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jullunar Alomari
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Network+Engineer;UI%2FUX+Designer;IT+Infrastructure+Specialist;Git%2FGitHub+Expert;Jira+Master" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Network+Engineer;IT+Infrastructure+Specialist;Git%2FGitHub+Expert;Jira+Master" alt="Typing SVG" />
 
 ---
 
@@ -12,7 +12,6 @@ I am a **Full-Stack Developer** and **Network Engineer**, passionate about build
 - 🖥️ **Web Development**: Building integrated management systems using Frappe and JavaScript
 - 🌐 **Networking**: Designing and simulating network infrastructure using Cisco Packet Tracer and PNETLab
 - 🏢 **Server Administration**: Managing Windows Server and Active Directory
-- 🎨 **Design**: Creating attractive and user-friendly interfaces
 - 🔧 **Project Management**: Using Jira and GitHub to manage projects efficiently
 
 I transform ideas into integrated systems through clear analysis, clean code, and practical user experiences.

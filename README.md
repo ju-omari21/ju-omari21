@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am a **Full-Stack Developer**, **Network Engineer**, and **UI/UX Designer**, passionate about building useful and scalable digital products.
+I am a **Full-Stack Developer** and **Network Engineer**, passionate about building useful and scalable digital products.
 
 ### 💡 My Areas of Expertise:
 - 🖥️ **Web Development**: Building integrated management systems using Frappe and JavaScript

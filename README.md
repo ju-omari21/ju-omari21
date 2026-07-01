@@ -103,16 +103,16 @@ I transform ideas into integrated systems through clear analysis, clean code, an
 
 ## 📜 Certifications & Training
 
-| Course | Organization | Date |
-|--------|--------------|------|
-| **Cisco Training Program** | Cisco & Yemen IT Union | 2024 - Present |
-| **Advanced Corporate Networks** | My Communication Academy | 2025 - Present |
-| **Wireless Training Course** | Yemen IT & Communications Union | December 2023 |
-| **E-Commerce Training Course** | Yemen IT & Communications Union | January - February 2024 |
-| **IT Tasks Essentials** | Yemen IT Union & Ytech | December 2023 |
-| **CompTIA A+ Training Course** | Yemen IT & Communications Union | November 2023 |
-| **Frappe/ERPNext Training** | ThirdEye Company | October - November 2023 |
-| **Information Technology Training** | Yemen IT & Communications Union | June 2023 |
+| Course | 
+|--------|
+| **Cisco Training Program** | 
+| **Advanced Corporate Networks** |
+| **Wireless Training Course** |
+| **E-Commerce Training Course** |
+| **IT Tasks Essentials** |
+| **CompTIA A+ Training Course** |
+| **Frappe/ERPNext Training** | 
+| **Information Technology Training** | 
 
 ---
 
